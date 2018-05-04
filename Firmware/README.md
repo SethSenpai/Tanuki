@@ -1,5 +1,5 @@
 # Tanuki 40% keyboard
-## The trash panda 40%
+### The trash panda 40%
 
 This firmware release is for the PCB version only.
 
