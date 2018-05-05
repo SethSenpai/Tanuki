@@ -4,7 +4,7 @@
 ![Tanuki](https://github.com/SethSenpai/Tanuki/blob/master/Img/glamour1.jpg?raw=true)
 
 ##### What is the Tanuki?
-The Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. The design goal for the Tanuki was to make a staggered 40% keyboard our of materials I had lying around in my workshop.
+The Tanuki is a 40% keyboard that uses a split spacebar design to comfortably switch between layers. The design goal for the Tanuki was to make a staggered 40% keyboard out of materials I had lying around in my workshop.
 This is also where it gets its name. A Tanuki or [Japanese raccoon dog](https://en.wikipedia.org/wiki/Japanese_raccoon_dog) is also known as a trash panda on the internet, which I felt was a fitting name for something build out of leftover materials.
 
 ##### Why open source?
@@ -23,17 +23,24 @@ You are of course more than welcome to run your own group buy!
 ##### Where is %this_key% on the keyboard?
 The Tanuki has 3 layers, if the key you want is not on any of these layers you will have to dive into the firmware and put it somewhere you like!
 
-Base layer:
+**Base layer:**
+
 ![base](https://github.com/SethSenpai/Tanuki/blob/master/Img/Base_layer.png?raw=true)
 
-Up layer:
+
+**Up layer:**
+
 ![up](https://github.com/SethSenpai/Tanuki/blob/master/Img/upper_layer.png?raw=true)
 
-Down layer:
+
+**Down layer:**
+
 ![down](https://github.com/SethSenpai/Tanuki/blob/master/Img/down_layer.png?raw=true)
 
-Game layer: (sort of a bad name I know more like arrow layer ah well)
+**Game layer: (sort of a bad name I know more like arrow layer ah well)**
+
 ![game](https://github.com/SethSenpai/Tanuki/blob/master/Img/Game_layer.png?raw=true)
+
 
 ##### I'm sold, where do I go from here?
 Visit build tips to get an idea of how to construct a Tanuki. Otherwise start by making a case by going to the `Case` folder. From there you can decide to handwire your Tanuki or have a pcb made. After that comes assembly and firmware! 
