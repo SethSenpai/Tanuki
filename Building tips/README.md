@@ -1,6 +1,8 @@
 # Tanuki 40% keyboard
 ### Building tips
 
+These are not instructions. Keep in mind that you can change anything you like if you think it will work!
+
 #### part list
 |quantity  | description |
 |----------|-------------|
@@ -16,12 +18,25 @@
 
 #### Case parts preparation before assembly
 
-preparing the lasercut parts
-paint.
-paint engraving
-countersinking
-sanding backplate.
-glueing nuts
+If you want you can paint the upper parts of the keyboard so the underglow only shines through the bottom plate. When picking your spray-paint make sure that the propellant doesn't eat away at the plastic. Some of the propellants can be corrosive.
+
+![paint](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble2.jpg?raw=true)
+
+The engraving on the front of the plate can be painted after by hand or filled by paint and then scraped off and cleaned off later with some isopropanol.
+
+![paint](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble1.jpg?raw=true)
+
+If you paint you can countersink the holes in top of the plate so the screws will fit on nice and flush later on.
+
+The backplate can be sanded to increase the diffusion of the underglow through the side of the backplate. This makes the glow effect more spread and less like a flashlight.
+In order to fit the backplate to the rest of the keyboard you should install some 3mm nuts in the slots on the backplate. You can glue them in place using superglue or epoxy.
+
+![sanding](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble3.jpg?raw=true)
+
+When you're done it should look something like this: (except it won't be assembled yet)
+
+![assembled](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble4.jpg?raw=true)
+
 
 assembly
 switch and resistor.
