@@ -67,7 +67,7 @@ After this solder in the cut up micro usb cable to the breakout points on the bo
 
 ![ass7](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba7.jpg?raw=true)
 
-The last step is to solder in the pro micro. Make sure the tx0 port on the pro micro aligns with the indicator on the pcb. Plug in the micro usb chassis into the pro micro and the final assembled product looks something like this.
+The last step is to solder in the pro micro. Make sure the tx0 port on the pro micro aligns with the indicator on the pcb. Plug in the micro usb chassis into the pro micro and the final assembled product looks something like this. Time to upload the [firmware](https://github.com/SethSenpai/Tanuki/tree/master/Firmware) and try it out.
 
 ![ass6](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba6.jpg?raw=true)
 
