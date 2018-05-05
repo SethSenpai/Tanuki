@@ -5,7 +5,9 @@ This firmware release is for the PCB version only.
 
 40% keyboard designed by Seth-Senpai. This repo is meant for the pcb version of the Tanuki. If you made any modifications to the board please make sure that the firmware reflects these changes.
 
-If you decide to handwire a Tanuki just make sure to change the files correctly. If you're lost you can check out the [QMK hand wiring guide](https://docs.qmk.fm/for-makers-and-modders/hand-wiring-guide).
+If you decide to handwire a Tanuki just make sure to change the files correctly. If you're lost you can check out the [QMK hand wiring guide](https://docs.qmk.fm/for-makers-and-modders/hand-wiring-guide). The matrix is displayed below.
+
+![matrix](https://github.com/SethSenpai/Tanuki/blob/master/Img/matrix.png?raw=true)
 
 The pcb version uses a Pro Micro (atmel 32u4 based) controller.
 
