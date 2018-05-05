@@ -14,3 +14,4 @@ The firmware files are also hosted over at [QMK](hahahlinksoon) and should be us
 
 ##### What do I do with this?
 If this is your first time compiling keyboard firmware you might want to check out the [QMK guide](https://docs.qmk.fm/) or if you made no changes just [flash the .hex file to your pro micro](https://docs.qmk.fm/flashing-firmware).
+
