@@ -2,7 +2,7 @@
 ### Case files
 
 These are the case files for the Tanuki.
-The Tanuki is designed using 3mm acrylic but you are welcome to experiment. Please keep in mind the height needed for the components.
+The Tanuki is designed to be laser cut out of 3mm acrylic but you are welcome to experiment. Please keep in mind the height needed for the components.
 + BLACK is a raster engraving.
 + BLUE should be the first lines to get cut.
 + CYAN should be the second lines to get cut.
