@@ -3,7 +3,7 @@
 
 These are not instructions. Keep in mind that you can change anything you like if you think it will work!
 
-#### part list
+#### part list pcb
 |quantity  | description |
 |----------|-------------|
 | x42 | diode smd: SOD-123 / SOD-80 (1N4148W / LL4148) or diode tht: DO-35 (1N4148 or similar) |
@@ -15,6 +15,23 @@ These are not instructions. Keep in mind that you can change anything you like i
 | x1 | reset button: 3x6x2.5mm push button |
 | x2 | stabilizer: costar style 2 unit (optional)|
 | x1 | usb pigtail: cheap generic microusb cable to cut |
+
+#### part list case
+|quantity  | description |
+|----------|-------------|
+| x6 | 3M hexagonal nut. 2.4mm height. |
+| x6 | 3M bolt. either 16 or 18 mm depending on the thickness of the board. |
+
+#### keycaps
+
+I recommend using a DSA profile keycap but you can do anything you like. Freestyle man!
+
+|quantity  | description |
+|----------|-------------|
+| x34 | 1U keycap |
+| x2 | 2U keycap |
+| x5 | 1.25U keycap |
+| x1 | 1.5U keycap |
 
 #### Case parts preparation before assembly
 
