@@ -37,13 +37,37 @@ When you're done it should look something like this: (except it won't be assembl
 
 ![assembled](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble4.jpg?raw=true)
 
+#### PCB assembly
 
-assembly
-switch and resistor.
-diodes
-leds.
-usb chassis
-headers
-front plate and switches
-usb breakout
-pro micro
+First part to solder to your pcb is the reset switch (if you have one) and the resistor for the led data line. ([this is sorta not needed but recommended,](https://electronics.stackexchange.com/questions/102050/what-is-the-purpose-of-adding-a-300-ohm-to-500-ohm-resistor-on-the-ws2812b-neopi) in that case just bridge the pads).
+
+![ass1](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba1.jpg?raw=true)
+
+The next step is to put all the diodes on the pcb. Make sure that the cathode (generally indicated by a mark on the diode) is pointing towards the square pad on the pcb.
+If you're using through hole diodes it might be a good idea to put some diodes on the other side of the pcb. This makes sure that there is a nice spacer between the plate and the pcb and keeps the switches in place nicely.
+
+![ass2](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba2.jpg?raw=true)
+
+Following this it is time to mount the leds on the pcb. When using the smd WS2812B leds make sure that the indent on one of the corners (the red circle in the picture) is pointing to the bottom right of the pcb.
+Also keep in mind that the WS2812B leds are pretty heat sensitive so don't cook them!
+If you want to hook up a neopixel strip just attach the wires to the appropriate breakout left of the first led.
+
+![ass3](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba3.jpg?raw=true)
+
+Solder the usb chassis to the board. Make sure it is nice and straight.
+
+![ass4](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba4.jpg?raw=true)
+
+Next are the headers for the pro micro. If you want to make the board slightly less thick you can remove the black standoffs in the header and just solder in the pins themselves. With a bit of dielectric tape on the back of the pro micro this can save you 2 to 3mm of height.
+
+![ass5](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba5.jpg?raw=true)
+
+The next steps are to put the switches into the front plate and solder them to the board. I always mount the 4 corner switches first and then solder in the rest of the switches.
+After this solder in the cut up micro usb cable to the breakout points on the board. It is generally helpful to remove the entire rubber outer layer of the cable to make it easier to solder and save on height space.
+
+![ass7](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba7.jpg?raw=true)
+
+The last step is to solder in the pro micro. Make sure the tx0 port on the pro micro aligns with the indicator on the pcb. Plug in the micro usb chassis into the pro micro and the final assembled product looks something like this.
+
+![ass6](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcba6.jpg?raw=true)
+
