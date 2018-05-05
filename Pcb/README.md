@@ -4,7 +4,7 @@
 ##### What do I do with this?
 + If you just want to have a pcb made. Use the `Tanuki-gerber.zip` file and upload this to your pcb manufacturer of choice.
 + The files in the `Tanuki-gerber-files` folder mirror the files in the zip and this folder can be used to check if all the files that your manufacturer needs are there.
-+ Otherwise modifications can be made by using the files found in the `Kicad files` folder.
++ Otherwise modifications or new gerber files can be made by using the files found in the `Kicad files` folder.
 
 Special thanks to [StormPegy](https://www.reddit.com/user/StormPegy/) for making the pcb.
 
