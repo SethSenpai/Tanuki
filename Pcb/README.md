@@ -9,4 +9,4 @@
 Special thanks to [StormPegy](https://www.reddit.com/user/StormPegy/) for making the pcb.
 
 ##### Picture of a manufactured pcb
-
+![tanuki pcb](https://github.com/SethSenpai/Tanuki/blob/master/Img/pcb.jpg?raw=true)
