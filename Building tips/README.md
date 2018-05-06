@@ -43,7 +43,7 @@ The engraving on the front of the plate can be painted after by hand or filled b
 
 ![paint](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble1.jpg?raw=true)
 
-If you paint you can countersink the holes in top of the plate so the screws will fit on nice and flush later on.
+If you want you can countersink the holes in top of the plate so the screws will fit on nice and flush later on.
 
 The backplate can be sanded to increase the diffusion of the underglow through the side of the backplate. This makes the glow effect more spread and less like a flashlight.
 In order to fit the backplate to the rest of the keyboard you should install some 3mm nuts in the slots on the backplate. You can glue them in place using superglue or epoxy.
@@ -53,6 +53,12 @@ In order to fit the backplate to the rest of the keyboard you should install som
 When you're done it should look something like this: (except it won't be assembled yet)
 
 ![assembled](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble4.jpg?raw=true)
+
+#### Hand wiring
+
+If you decide to handwire a Tanuki just make sure to change the files correctly. If you're lost you can check out the [QMK hand wiring guide](https://docs.qmk.fm/for-makers-and-modders/hand-wiring-guide). The matrix is displayed below.
+
+![matrix](https://github.com/SethSenpai/Tanuki/blob/master/Img/matrix.png?raw=true)
 
 #### PCB assembly
 
