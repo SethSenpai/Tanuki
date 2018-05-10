@@ -1,8 +1,8 @@
 # Tanuki 40% keyboard
-### Firmware files
+### [Firmware files](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tanuki)
 
 #### Why are these files here?
-The firmware files are also hosted over at [QMK](hahahlinksoon) and should be used to compile the firmware in a way that you like. These files are posted here to consolidate the files in one place and allow people to compile using older versions of QMK.
+The firmware files are also hosted over at [QMK](https://github.com/qmk/qmk_firmware/tree/master/keyboards/tanuki) and should be used to compile the firmware in a way that you like. These files are posted here to consolidate the files in one place and allow people to compile using older versions of QMK.
 
 #### What do I do with this?
 If this is your first time compiling keyboard firmware you might want to check out the [QMK guide](https://docs.qmk.fm/) or if you made no changes just [flash the .hex file to your pro micro](https://docs.qmk.fm/flashing-firmware).
