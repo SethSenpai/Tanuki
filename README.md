@@ -12,7 +12,7 @@ The reason I am not doing a group buy or anything else of the sort is because I 
 I feel that running a group buy or outright producing this keyboard will take away the experimental nature of the project. I want people to take what I designed and mold it into something that is theirs. To use this more as a platform of departure rather than a guide to follow. Ok, I will stop rambling about design philosophy now.
 
 You are of course more than welcome to run your own group buy!
-**If you intend to use this design for commercial use please contact me beforehand.**
+**If you intend to use this design for commercial use [please contact me](mailto:contact@pimostendorf.nl) beforehand.**
 
 #### Features
 + A staggered design.
