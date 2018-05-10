@@ -12,6 +12,7 @@ The reason I am not doing a group buy or anything else of the sort is because I 
 I feel that running a group buy or outright producing this keyboard will take away the experimental nature of the project. I want people to take what I designed and mold it into something that is theirs. To use this more as a platform of departure rather than a guide to follow. Ok, I will stop rambling about design philosophy now.
 
 You are of course more than welcome to run your own group buy!
+**If you intend to use this design for commercial use please contact me beforehand.**
 
 #### Features
 + A staggered design.
@@ -19,6 +20,11 @@ You are of course more than welcome to run your own group buy!
 + Interactive RGB underglow that shows what layer you're on.
 + Buttons to turn off or reconfigure your underglow.
 + The ability to modify and adapt the keyboard to your wildest dreams! (and perhaps learn new skills doing so!)
+
+#### How do I use the Tanuki?
+The Tanuki works by having a split spacebar design. Holding either side of the spacebar will shift the keyboard to a different layer giving you access to the characters on that layer. 
+Please note that while playing video games you should switch to the game layer. Some games to not handle the spacebar hold interaction well and will eat your inputs. (not good when playing your high adrenaline games)
+Switching to the game layer will remove the hold function from the spacebar, fixing the problem.
 
 #### Where is %this_key% on the keyboard?
 The Tanuki has 3 layers, if the key you want is not on any of these layers you will have to dive into the firmware and put it somewhere you like!
