@@ -1,9 +1,9 @@
 # Tanuki 40% keyboard
-### Building tips
+### Materials and Assembly
 
 These are not instructions. Keep in mind that you can change anything you like if you think it will work!
 
-#### part list pcb
+#### Part list pcb
 |quantity  | description |
 |----------|-------------|
 | x42 | diode smd: SOD-123 / SOD-80 (1N4148W / LL4148) or diode tht: DO-35 (1N4148 or similar) |
@@ -16,22 +16,21 @@ These are not instructions. Keep in mind that you can change anything you like i
 | x2 | stabilizer: costar style 2 unit (optional)|
 | x1 | usb pigtail: cheap generic microusb cable to cut |
 
-#### part list case
+#### Part list case
 |quantity  | description |
 |----------|-------------|
 | x6 | 3M hexagonal nut. 2.4mm height. |
 | x6 | 3M bolt. either 16 or 18 mm depending on the thickness of the board. |
 
-#### keycaps
-
+#### Keycaps
 I recommend using a DSA profile keycap but you can do anything you like. Freestyle man!
-
 |quantity  | description |
 |----------|-------------|
 | x34 | 1U keycap |
 | x2 | 2U keycap |
 | x5 | 1.25U keycap |
 | x1 | 1.5U keycap |
+
 
 #### Case parts preparation before assembly
 
@@ -54,11 +53,13 @@ When you're done it should look something like this: (except it won't be assembl
 
 ![assembled](https://github.com/SethSenpai/Tanuki/blob/master/Img/assemble4.jpg?raw=true)
 
+
 #### Hand wiring
 
 If you decide to handwire a Tanuki just make sure to change the files correctly. If you're lost you can check out the [QMK hand wiring guide](https://docs.qmk.fm/for-makers-and-modders/hand-wiring-guide). The matrix is displayed below.
 
 ![matrix](https://github.com/SethSenpai/Tanuki/blob/master/Img/matrix.png?raw=true)
+
 
 #### PCB assembly
 
