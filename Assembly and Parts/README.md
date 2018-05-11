@@ -24,6 +24,7 @@ These are not instructions. Keep in mind that you can change anything you like i
 
 #### Keycaps
 I recommend using a DSA profile keycap but you can do anything you like. Freestyle man!
+
 |quantity  | description |
 |----------|-------------|
 | x34 | 1U keycap |
