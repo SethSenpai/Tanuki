@@ -57,7 +57,7 @@ When you're done it should look something like this: (except it won't be assembl
 
 #### Hand wiring
 
-If you decide to handwire a Tanuki just make sure to change the files correctly. If you're lost you can check out the [QMK hand wiring guide](https://docs.qmk.fm/for-makers-and-modders/hand-wiring-guide). The matrix is displayed below.
+If you decide to handwire a Tanuki just make sure to change the files correctly. If you're lost you can check out the [QMK hand wiring guide](https://docs.qmk.fm/#/hand_wire). The matrix is displayed below.
 
 ![matrix](https://github.com/SethSenpai/Tanuki/blob/master/Img/matrix.png?raw=true)
 
