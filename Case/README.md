@@ -1,7 +1,7 @@
 # Tanuki 40% keyboard
 ### Case files
 
-These are the case files for the Tanuki. There is a choice between 3d printing and lasercutting a sandwich case. Both have their own advantages and disadvantages. Notably for 3d printing is the time printing the parts and the work needed to make it pretty afterwards. For lasercutting its the amount of paintwork that needs to be done and the relative annoying way of assembly.
+These are the case files for the Tanuki. There is a choice between 3d printing and lasercutting a sandwich case. Both have their own advantages and disadvantages. Notably for 3d printing is the time needed for printing the parts and the time investment to make it pretty afterwards. For lasercutting its the amount of paintwork that needs to be done and the relative annoying way of assembly.
 
 ### 3D Printing
 The 3d printing files are split up into 5 files. Don't freak out most of them can be ignored based on your preferences and 3d printer. The full keyboard case doesn't fit on my Anet A6 and when I look around at the bed sizes for most 3d printers it likely won't fit on yours either. This is why the keyboard is split into 2 pieces.
@@ -15,9 +15,10 @@ The 3d printing files are split up into 5 files. Don't freak out most of them ca
 + TanukiCase_right.stl
 + TanukiCase_right_nologo.stl
 
-The ..._nologo files are there because they have no indented logo on their front face. With 3d printed parts more porous than smooth acrylic it is near impossible to scrape the paint off the front. I ended up filling it in with a very thin needle and the end result is well... ok enough? I decided to include files without the logo so you have a choice.
+The ..._nologo files are there because they have no indented logo on their front face. With 3d printed parts being more porous than smooth acrylic it is near impossible to scrape the paint off the front without paint streaks. I ended up filling it in with a very thin needle and the end result is well... ok enough? It is nowhere perfect so I decided to include files without the logo so you have a choice. Maybe a sticker is a better way to go...
 
 *Print settings*
+
 These vary from printer to printer, don't expect the first attempt to come out perfect.
 
 + layer height: 0.2mm
@@ -29,9 +30,11 @@ These vary from printer to printer, don't expect the first attempt to come out p
 You may need to rotate the model so the front of the case is laying down on the bed of the printer.
 
 *Print aftercare*
+
 Make sure to sand the inside of the mating surfaces of your print before attempting to glue it together. Glueing the parts together works really well with some low viscosity CA glue.
 
 *What about the bottom of the case?*
+
 Currently I just mount a lasercut 3mm clear acrylic part on the bottom with some 3mm bolts. However in the future I might design some nice 3d printed part that lets the light through nicely.
 
 ### Lasercutting
